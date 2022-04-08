@@ -13,9 +13,6 @@ elItem.forEach((item) => {
       e.target.children[1].style.display = "none";
       e.target.style.backgroundColor = "#dd6859";
     }
-    // if(count === 9){
-    //   alert("Game over");
-    // }
   });
 });
 
